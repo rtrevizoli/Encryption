@@ -2,6 +2,9 @@
 *pub*
 *pri*
 
+# Encrypted message
+*encrypted_message.txt*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
