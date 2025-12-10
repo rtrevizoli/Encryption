@@ -1,3 +1,7 @@
+# Generated key pair
+*pub*
+*pri*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
