@@ -51,7 +51,7 @@ def check_path(path: str, key_name: str) -> None:
     p = Path(path)
 
     if not p.exists():
-        path.mkdir(parents=True, exist_ok=True)
+        p.mkdir(parents=True, exist_ok=True)
         return True
 
     if p.is_file():
